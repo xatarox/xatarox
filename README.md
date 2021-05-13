@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xatarox
+- 👋 Hi, I’m @xatarox, known as aTAR! or aTARo
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on dox tools or everything else :)
@@ -9,3 +9,5 @@
 - French
 - I can speak French, English, Swedish, and a bit Spanish.
 - I mainly program in Python
+
+(My name is not atari)
