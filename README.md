@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on dox tools or everything else :)
 - 📫 How to reach me snapchat: azerty-uiop33
 
-18 Years old
-Aspergers
-French
-I can speak French, English, Swedish, and a bit Spanish.
-I mainly program in Python
+-18 Years old
+-Aspergers
+-French
+-I can speak French, English, Swedish, and a bit Spanish.
+-I mainly program in Python
